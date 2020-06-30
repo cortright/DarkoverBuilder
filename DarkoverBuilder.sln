@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkoverBuilder.UI", "DarkoverBuilder\DarkoverBuilder.UI.csproj", "{DA0B4D4C-A682-4460-ABD6-187B5474CB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkoverBuilder.Model", "DarkoverBuilder.Model\DarkoverBuilder.Model.csproj", "{B42D4751-666F-478B-AD57-FA1A25ACFD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0B4D4C-A682-4460-ABD6-187B5474CB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0B4D4C-A682-4460-ABD6-187B5474CB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0B4D4C-A682-4460-ABD6-187B5474CB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0B4D4C-A682-4460-ABD6-187B5474CB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42D4751-666F-478B-AD57-FA1A25ACFD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42D4751-666F-478B-AD57-FA1A25ACFD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42D4751-666F-478B-AD57-FA1A25ACFD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42D4751-666F-478B-AD57-FA1A25ACFD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CD7E82-EC29-4122-A5B8-01CC3DC2834B}
+	EndGlobalSection
+EndGlobal
